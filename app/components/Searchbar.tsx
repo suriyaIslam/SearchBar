@@ -34,7 +34,6 @@ const Searchbar = () => {
                         {
                             activeSearch.map(s => (
                                 <span>{s}</span>
-                                <h1>Hello</h1>
                             ))
                         }
                     </div>
